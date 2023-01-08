@@ -1,0 +1,27 @@
+{
+    "SignUpPage":{
+        "billingEntityNamefield":"#CustomerName",
+        "legalEntityID":"#RegistrationNumber",
+        "addressLine1":"#Street1",
+        "addressLine2":"#Street2",
+        "addressLine3":"#Street3",
+        "city":"#City",
+        "state":"#State",
+        "postcode":"#Postcode",
+        "mainphone":"#MainPhone",
+        "email":"#Email",
+        "webUrl":"#WebUrl",
+        "howDidYouHearAboutRhipe":"#Source:visible",
+        "industryType":"#IndustryType",
+        "authorisedSignatoryText":"#onboarding-form > :nth-child(7) > h3",
+        "firstNamefield":"#PrimaryContactFirstName",
+        "lastNamefield":"#PrimaryContactLastName",
+        "directPhonefield":"#PrimaryContactPhone",
+        "PrimaryContactEmail":"#PrimaryContactEmail",
+        "submitBtn":"#submitbutton"
+
+
+
+    }
+
+}

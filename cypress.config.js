@@ -5,6 +5,8 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
-    specPattern:'cypress/Integration/Examples/*.js'
+    "baseUrl":"https://dev-rhipe-signup.azurewebsites.net/",
+    //specPattern:'cypress/Integration/Examples/*.js'
+    specPattern:'cypress/Integration/testcases/*.js'
   },
 });

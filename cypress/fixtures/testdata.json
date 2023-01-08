@@ -1,0 +1,20 @@
+{
+    "billingEntityNamefield":"QA",
+    "legalEntityID":"QA GROUP",
+    "addressLine1":"address1",
+    "addressLine2":"address2",
+    "addressLine3":"address2",
+    "city":"Melbourne",
+    "state":"victoria",
+    "phone":"0431124618",
+    "postcode":"3977",
+    "webURL":"www.google.com",
+    "email":"test@test.com",
+    "howDidYouHearAboutRhipe":"Rhipe Website",
+    "industryType":"IT Consultants",
+    "firstName":"sample name",
+    "lastName":"last name ",
+    "directPhone":"0431124618",
+    "PrimaryContactEmail":"test@test.com"
+
+}
